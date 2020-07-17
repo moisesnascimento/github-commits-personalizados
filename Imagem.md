@@ -1,3 +1,3 @@
 ## Adicionando uma imagem do repositorio local
 
-![imagem](Imagens/manutencao.jpg)
+![foto](https://github.com/moisesnascimento/github-commits-personalizados/blob/master/imagens/img1.png)
