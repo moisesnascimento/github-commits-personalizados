@@ -6,4 +6,4 @@
 
 #### Upload via URL
 
-![imagem](https://commons.wikimedia.org/wiki/Main_Page#/media/File:Amberboom_(Liquidambar_styraciflua)._Detail._31-03-2020_(d.j.b.).jpg_07.jpg)
+![imagem](https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg)
