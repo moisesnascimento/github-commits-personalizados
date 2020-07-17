@@ -6,4 +6,4 @@
 
 #### Upload via URL
 
-![imagem](https://pt.wikipedia.org/wiki/PNG#/media/Ficheiro:PNG_transparency_demonstration_2.png)
+![imagem](https://commons.wikimedia.org/wiki/Main_Page#/media/File:Amberboom_(Liquidambar_styraciflua)._Detail._31-03-2020_(d.j.b.).jpg_07.jpg)
